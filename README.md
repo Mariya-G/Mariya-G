@@ -1,5 +1,7 @@
 ### Hi there, my name Mariya! 👋
 #### I`m junior frontend-developer
+
+Мои навыки: HTML, CSS, PUG, Java Script, React
 <!--
 **Mariya-G/Mariya-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
