@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-`https://www.codewars.com/users/Maria-G-Frontend/badges/large`
